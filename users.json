@@ -1,0 +1,34 @@
+{
+  "users": {
+    "3a1dfc5f-11a1-479c-9df7-0c0e1537ead0": {
+      "id": "3a1dfc5f-11a1-479c-9df7-0c0e1537ead0",
+      "email": "vongheng2019@gmail.com",
+      "username": "vongheng2019@gmail.com",
+      "img_url": "https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "password": "scrypt:32768:8:1$TUYrjzcN6GVWmfY9$17d71d697714fc4c99c603bf45724d61ff80417e065038ca5861634cdfd4c793208b83ec97af9cc3c1c4e26d16d9075b4509cbe245bd15ac47727bdd6449b07f",
+      "favorites": [
+        1087192,
+        936108
+      ],
+      "watchlist": [
+        1311031,
+        1087192
+      ],
+      "purchases": [
+        1071585,
+        1087192,
+        1061474
+      ]
+    },
+    "c449d611-aa84-4250-aa4c-cc247062b603": {
+      "id": "c449d611-aa84-4250-aa4c-cc247062b603",
+      "email": "vongheng505@gmail.com",
+      "username": "vongheng505@gmail.com",
+      "img_url": "",
+      "password": "scrypt:32768:8:1$V1PtpwR3kXvtGQ9z$74b11d9f59d88a0dc7cbb02cd97a158c498bf3aba5fd5ca61859e7e33f67f494e6f92518c8927167378d75e491fbcc57156bf67338eb85763b5a520e43b6631a",
+      "favorites": [],
+      "watchlist": [],
+      "purchases": []
+    }
+  }
+}
